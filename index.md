@@ -1,13 +1,22 @@
-## Welcome to GitHub Pages
+# 李萱,没错,就是你,这是我为你做的网站
 
-You can use the [editor on GitHub](https://github.com/sch-design/xuanxuan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+今天是2020年11月15日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是我第一次尝试去做一个网站,我也不知道做出来会是什么样子,希望你会喜欢
 
-### Markdown
+## 我们的故事从这里开始
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2018年的那个夏天,高考失利的我沉迷手机,偶然间在一个斗鱼语音直播间遇见了你
 
+从听见你的声音开始,我就在想:"这个女孩声音好好听,一定是个温柔的女孩子吧!"
+
+我们稀里糊涂的加了好友,奇奇怪怪的在一起
+
+哦,对了，那天是2018年9月6日
+
+我从来没有想过我会这样开始一段恋爱
+
+但我从来没有后悔过
 ```markdown
 Syntax highlighted code block
 
